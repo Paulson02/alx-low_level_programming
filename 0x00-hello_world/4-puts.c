@@ -1,22 +1,14 @@
 #!/bin/bash
 #include <stdio.h>
+
 /**
-* main - print if the number is postive, zero, or negative
+* main - Entry point
 *
-* Description: using the main function
-* this program prints "Programming is positive, zero, or negative
-* Return: 0
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-char ch;
-for (ch = 'a' ; ch <= 'z' ; ch++)
-{
-if (ch != 'e' && ch != 'q')
-{
-putchar(ch);
-}
-}
-putchar('\n');
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
+
