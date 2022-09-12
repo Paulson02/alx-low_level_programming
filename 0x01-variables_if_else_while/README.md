@@ -1,1 +1,1 @@
-this readme is all about riables_if_else_while
+Write a program that prints all possible combinations of single-digit numbers.
